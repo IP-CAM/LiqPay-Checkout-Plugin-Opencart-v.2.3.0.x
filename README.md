@@ -30,6 +30,8 @@ Extensions> Payments> Liqpay click [Edit] and fill in the required settings
     - Create a store in your account using the installation wizard (https://www.liqpay.com/admin/business)
     - Get "Public Key" and "Private Key"
 
+--------------------
+
 #### Для установки модуля скопируйте содержимое каталога upload: ####
 Файлы данного расширение заменяют файлы идущие в стандартной поставке opencart
 
@@ -37,9 +39,6 @@ Extensions> Payments> Liqpay click [Edit] and fill in the required settings
 <OpenCart>/admin/
 <OpenCart>/catalog/
 <OpenCart>/system/
-
-
---------------------
 
 #### Затем в панели администратора установите и настройте его: ####
 
